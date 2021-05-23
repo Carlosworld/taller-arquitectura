@@ -425,3 +425,5 @@ textarea {
     justify-content: space-between;
     align-items: center;
 }
+#mapid { 
+    height: 300px; }
